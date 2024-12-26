@@ -19,7 +19,7 @@ PhD-Porosity-Prediction/
 ││├── Example/                  Example of sorting between defective and exploitable images  
 │││├── Defective/               Example of images the CNN is accurately classifying as "defective"  
 │││├── Exploitable/             Example of images the CNN is accurately classifying as "exploitable"  
-│││├── Unsorted/                Link to an example of unsorted folder of images (All folders from the Zenodo dataset are unsorted)  
+│││├── Unsorted/                Link to an example of unsorted folder of images (All folders in Zenodo are unsorted)  
 ││├── Output/                   Final accuracy and loss plots  
 ││├── Script/                   CNN model architecture and use  
 │├── MLP/                            Multi-Layer Perceptron model architecture and example of dataset  
