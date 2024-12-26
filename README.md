@@ -6,8 +6,7 @@ It is laid out as follows:
 
 PhD-Porosity-Prediction/  
                                                                                                                                                                                   
-├── Porosity-Analysis/                  Code, example of input and output for porosity analysis  
-                                                                                                                                                                                  
+├── Porosity-Analysis/                  Code, example of input and output for porosity analysis                                                                                                                                                                                 
 │├── Script/                          Python code for porosity analysis, used to extract porosity metrics from .png exploitable images  
 │├── Example_Data/                    Sample image for testing the code, and example of the script outputs  
 ││├── Input_Image/                Example of image for testing the code.  For the full dataset, refer to the About_Data file  
