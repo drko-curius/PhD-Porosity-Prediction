@@ -11,6 +11,7 @@ PhD-Porosity-Prediction/
 │      ├────── Input_Image/                Example of image for testing the code.  For the full dataset, refer to the About_Data file in the repository  
 │      ├────── Output_CSV/                 Example of the csv files generated using the script. Note the provided code runs on an image folder  
 │      ├────── Output_Plots/               Example of the plots generated using the script. Colored contours are qualitative plots. Rest is quantitative   
+│                                                                                                                                                                                  
 ├── Machine-Learning/                   The ML scripts developed for classification and prediction  
 │   ├── CNN/                             Convolutional Neural Network model architecture and example of outcome    
 │      ├────── Example/                  Example of sorting between defective and exploitable images  
@@ -23,6 +24,7 @@ PhD-Porosity-Prediction/
 │      ├────── Example_of_Dataset/         Example of dataset for neural network training  
 │      ├────── Output/                     Final MSE and R squared plots for the example dataset  
 │      ├────── Script/                     MLP model architecture and use  
+│                                                                                                                                                                                  
 ├── About_Data                          Link to the full dataset  
 ├── README.md                           This document summarizing the content of the repository  
 ├── LICENSE                             MIT license. Please credit for use  
