@@ -30,9 +30,9 @@ PhD-Porosity-Prediction/
 │      ├────── Script/                     MLP model architecture and use  
 │                                                                          
 │                                                                                                                                                                                  
-├── About_Data                          Link to the full dataset  
+├── About_Data                         : Link to the full dataset  
 │                                                                                                                                                                                  
-├── README.md                           This document summarizing the content of the repository  
+├── README.md                         :  This document summarizing the content of the repository  
 │                                                                                                                                                                                  
-├── LICENSE                             MIT license. Please credit for use  
+├── LICENSE                         :    MIT license. Please credit for use  
 │                                                                                                                                                                                  
