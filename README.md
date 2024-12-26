@@ -29,8 +29,10 @@ PhD-Porosity-Prediction/
                                                                           
                                                                                                                                                                                   
 ├── About_Data                         : Link to the full dataset  
+                                                                                                       
+├── LICENSE                         :    MIT license. Please credit for use  
                                                                                                                                                                                   
 ├── README.md                         :  This document summarizing the content of the repository  
                                                                                                                                                                                   
-├── LICENSE                         :    MIT license. Please credit for use  
+
                                                                                                                                                                                   
