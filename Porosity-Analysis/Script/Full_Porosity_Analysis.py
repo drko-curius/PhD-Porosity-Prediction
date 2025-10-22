@@ -16,7 +16,7 @@ import matplotlib.ticker as mtick
 #Global variables#
 ##################
 #Resolution of the images from the resolution used during CT-scanning
-resolution = 27
+resolution = 29.91 #um
 #Path where the main python file is
 path = os.path.dirname(os.path.realpath(__file__))
 #Path to the directory containing the images
